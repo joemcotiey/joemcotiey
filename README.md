@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @joemcotiey
+- 👋 Hi, I’m joe mcotiey
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning laravel
 - 💞️ I’m looking to collaborate on web development projects
